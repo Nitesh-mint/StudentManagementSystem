@@ -11,5 +11,4 @@ A simple app made using django which lets us add students with their academic de
 - View Details
 
 ## Demo
-file:///home/nitesh/Videos/Peek%202023-03-06%2014-43.gif
-
+![Peek 2023-03-06 14-43](https://user-images.githubusercontent.com/84650411/223064672-afc348aa-a2f7-4855-ba66-523599852a7f.gif)
